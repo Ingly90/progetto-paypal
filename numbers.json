@@ -1,0 +1,122 @@
+[
+  {
+    "number": 1,
+    "available": true
+  },
+  {
+    "number": 2,
+    "available": true
+  },
+  {
+    "number": 3,
+    "available": true
+  },
+  {
+    "number": 4,
+    "available": true
+  },
+  {
+    "number": 5,
+    "available": false
+  },
+  {
+    "number": 6,
+    "available": true
+  },
+  {
+    "number": 7,
+    "available": true
+  },
+  {
+    "number": 8,
+    "available": true
+  },
+  {
+    "number": 9,
+    "available": true
+  },
+  {
+    "number": 10,
+    "available": true
+  },
+  {
+    "number": 11,
+    "available": true
+  },
+  {
+    "number": 12,
+    "available": true
+  },
+  {
+    "number": 13,
+    "available": true
+  },
+  {
+    "number": 14,
+    "available": true
+  },
+  {
+    "number": 15,
+    "available": true
+  },
+  {
+    "number": 16,
+    "available": true
+  },
+  {
+    "number": 17,
+    "available": true
+  },
+  {
+    "number": 18,
+    "available": true
+  },
+  {
+    "number": 19,
+    "available": true
+  },
+  {
+    "number": 20,
+    "available": true
+  },
+  {
+    "number": 21,
+    "available": true
+  },
+  {
+    "number": 22,
+    "available": true
+  },
+  {
+    "number": 23,
+    "available": true
+  },
+  {
+    "number": 24,
+    "available": true
+  },
+  {
+    "number": 25,
+    "available": true
+  },
+  {
+    "number": 26,
+    "available": true
+  },
+  {
+    "number": 27,
+    "available": true
+  },
+  {
+    "number": 28,
+    "available": true
+  },
+  {
+    "number": 29,
+    "available": true
+  },
+  {
+    "number": 30,
+    "available": true
+  }
+]
